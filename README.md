@@ -226,7 +226,8 @@ This analysis shows that **the problem is not how many customers are coming in. 
 
 ## Author
 
-**Khushi**
+**Khushi Gedam**
+
 Aspiring Data Analyst | SQL · Python · Excel · Power BI
 Currently learning by building real-world data projects.
 
